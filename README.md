@@ -1,10 +1,10 @@
 
-
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/hierarchical-text-conditional-image/text-to-image-generation-on-coco)](https://paperswithcode.com/sota/text-to-image-generation-on-coco?p=hierarchical-text-conditional-image)
 <h1 align="center">Hi 👋, I'm Abhinaw Ratan</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinawratan&label=Profile%20views&color=0e75b6&style=flat" alt="abhinawratan" /> </p>
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/hierarchical-text-conditional-image/text-to-image-generation-on-coco)](https://paperswithcode.com/sota/text-to-image-generation-on-coco?p=hierarchical-text-conditional-image)
+
 - 🔭 I’m currently working on [Aire](https://github.com/AbhinawRatan/Aire)
 
 - 👯 I’m looking to collaborate on [cal.com](https://github.com/calcom/cal.com)
