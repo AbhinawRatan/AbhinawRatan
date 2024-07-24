@@ -5,13 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinawratan&label=Profile%20views&color=0e75b6&style=flat" alt="abhinawratan" /> </p>
 
-- 🔭 I’m currently working on [Aire](https://github.com/AbhinawRatan/Aire)
 
-- 👯 I’m looking to collaborate on [cal.com](https://github.com/calcom/cal.com)
-
-- 👨‍💻 All of my projects are available at [https://abhinaw.live/](https://abhinaw.live/)
-
-- 📝 I regularly write articles on [https://abhinaw.live/#blog](https://abhinaw.live/#blog)
 
 - 📫 How to reach me **ratanabhinaw@gmail.com**
 
