@@ -1,5 +1,4 @@
 
-![My Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=AbhinawRatan&theme=tokyonight&langs_count=5)
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/hierarchical-text-conditional-image/text-to-image-generation-on-coco)](https://paperswithcode.com/sota/text-to-image-generation-on-coco?p=hierarchical-text-conditional-image)
 <h1 align="center">Hi 👋, I'm Abhinaw Ratan</h1>
