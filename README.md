@@ -8,7 +8,6 @@
 
 
 
-- 📫 How to reach me **ratanabhinaw@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1UcsgH8sgwV1s4aJtl1qz1zi3O6ejm4kA/view?usp=sharing](https://drive.google.com/file/d/1UcsgH8sgwV1s4aJtl1qz1zi3O6ejm4kA/view?usp=sharing)
 
